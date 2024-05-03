@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "backend",
+    "fullstack",
+    "app"
+  ],
+  "author": "ABHAY GUPTA",
+  "license": "ISC",
+  "dependencies": {
+    "dotnet": "^1.1.4",
+    "express": "^4.19.2"
+  }
+}
